@@ -37,6 +37,10 @@ This kind of system can be applied to:
 
 4. **Prediction:**  
    The trained model predicts landmarks from new unseen images.
+
+## License
+
+This project is licensed under the MIT License.
    
 ##
 
